@@ -1,6 +1,6 @@
 # PS with Rust
 
-This repository was created to make an environment providing a boilerplate to do boj.kr, via VSC and its `Task` feature.
+This repository was created to make an environment providing a boilerplate to do boj.kr or leetcode, via VSC and its `Task` feature.
 
 After cloning this, I recommend installing entire VSC extensions in `.vscode/extensions.json` to get an easier way to execute each task.
 
