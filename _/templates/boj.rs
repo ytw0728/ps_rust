@@ -4,7 +4,7 @@ fn main() {
     let stdout = io::stdout();
     let mut outputs = io::BufWriter::new(stdout.lock());
 
-    let stdin = io::stdout();
+    let stdin = io::stdin();
     let mut inputs = String::new();
 
 
